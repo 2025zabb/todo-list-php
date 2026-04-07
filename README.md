@@ -1,5 +1,10 @@
 To-Do List
 
+Objectif:
+Projet réalisé dans le cadre de l’apprentissage du développement web en PHP (gestion de formulaires et des données).
+
+--
+
 Description:
 Application web permettant de gérer une liste de tâches.
 
@@ -23,11 +28,5 @@ Technologies:
 - SQL (base de données)
 
 ---
-
-Objectif:
-Projet réalisé dans le cadre de l’apprentissage du développement web en PHP (gestion de formulaires et des données).
-
----
-
 Auteur
 - Christian Nzabi
